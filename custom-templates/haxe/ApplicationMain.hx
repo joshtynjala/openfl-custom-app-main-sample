@@ -14,7 +14,7 @@ class ApplicationMain {
 		#end
 	}
 
-	public static function create(config):Void
+	private static function create(config):Void
 	{
 		var app = createApp();
 		createWindows(app, config);
