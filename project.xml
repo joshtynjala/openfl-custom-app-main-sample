@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
 	<meta title="Custom OpenFL ApplicationMain" package="com.feathersui.CustomAppMain" version="1.0.0" company="Bowler Hat LLC" />
-	<app main="CustomAppMain" file="CustomAppMain" />
+	<app main="SampleMain" file="CustomAppMain" />
 
 	<window allow-high-dpi="true"/>
 	<window fps="60"/>

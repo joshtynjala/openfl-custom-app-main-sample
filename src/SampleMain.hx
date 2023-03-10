@@ -2,7 +2,7 @@ import openfl.display.Sprite;
 import openfl.text.TextFormat;
 import openfl.text.TextField;
 
-class CustomAppMain extends Sprite {
+class SampleMain extends Sprite {
 	public function new() {
 		super();
 		var textField = new TextField();
