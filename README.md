@@ -18,4 +18,4 @@ openfl test html5
 
 This custom [_haxe/ApplicationMain.hx_](https://github.com/joshtynjala/openfl-custom-app-main-sample/tree/main/custom-templates/haxe/ApplicationMain.hx) is a simplified version of the default one used by OpenFL. It doesn't create a preloader or load any assets, and it removes the macros that enable some more advanced features that most projects don't need.
 
-Sample created by [Josh Tynjala](https://github.com/sponsors/joshtynjala), the author of [Feathers UI](https://feathersui.com/) and core contributor to [OpenFL](https://openfl.org/).
+Sample created by [Josh Tynjala](https://github.com/sponsors/joshtynjala), the author of [Feathers UI](https://feathersui.com/) and a member of the [OpenFL](https://openfl.org/) leadership team.
